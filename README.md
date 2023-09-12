@@ -4,19 +4,19 @@ This project utilizes a dataset originally sourced from the National Institute o
 
 # Overview
 In this project, we follow a step-by-step approach:
-# Exploratory Data Analysis (EDA): We perform EDA using Python libraries such as Seaborn and Matplotlib to gain insights into the dataset.
-# Data Cleaning: We prepare the dataset by handling missing data and outliers.
-# Model Building: We explore various machine learning models to predict diabetes outcomes.
-# Model Evaluation: We assess model performance using relevant metrics.
+1. Exploratory Data Analysis (EDA): We perform EDA using Python libraries such as Seaborn and Matplotlib to gain insights into the dataset.
+2. Data Cleaning: We prepare the dataset by handling missing data and outliers.
+3. Model Building: We explore various machine learning models to predict diabetes outcomes.
+4. Model Evaluation: We assess model performance using relevant metrics.
 
 # Dependencies
 To run this project, you will need the following Python libraries:
 
-# NumPy
-# Pandas
-# Matplotlib
-# Seaborn
-# Scikit-Learn
+1. NumPy
+2. Pandas
+3. Matplotlib
+4. Seaborn
+5. Scikit-Learn
 
 # Dataset Source
 This dataset originates from the National Institute of Diabetes and Digestive and Kidney Diseases. You can find it at [insert dataset source link].
